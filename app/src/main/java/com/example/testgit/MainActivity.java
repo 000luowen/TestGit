@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //第二次修改MainActivity的onCreate();
-        //测试分支
+        //分支修改
     }
 }
